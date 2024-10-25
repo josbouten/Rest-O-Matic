@@ -15,6 +15,9 @@ This was just a quick project, so I did not make a PCB but used a bit of perf bo
 # How it works
 
 An amplifier is used to amplify the input voltage (if needed). 
+Only if the output voltage of the opamp is high enough AND there is a gate in signal will the NAND produce an output gate.
+Using that gate to open a VCA of some VCO will result in a note sounding.
+Setting the CV pots on a 960 can thus be used to determine whether a tone or a rest is played,
 
 ![schematic_v0.1.jpg](schematic_v0.1.jpg)
 

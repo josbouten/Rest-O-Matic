@@ -1,8 +1,6 @@
 # Summary 
 
-![Rest-O-Matic bla](fotos/20241025_130921_scaled.jpg)
-
-**Rest-O-Matic** is a utility that makes it possible to produce rests when using a B960 (or similar style) sequencer. 
+**Rest-O-Matic** is a eurorack module that makes it possible to produce rests when using a B960 (or similar style) sequencer. 
 The B960 sequencer outputs control voltages and gates. It will ‘play’ all steps all the time unless you skip one or 
 more steps. Skipping a step however will shorten the sequence by 1 step and sometimes this is not what you want. 
 So I came up with Rest-O-Matic.
